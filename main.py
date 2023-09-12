@@ -22,7 +22,7 @@ while True:
   name = input('\033[34mName you warrior: \033[0m')
   print()
   health_stat = rollDice1()
-  print(f'\033[32mTheir health is: {health_stat}hp\033[0m')
+  print(f'\033[32mTheir health is: {health_stat}hp.\033[0m')
   print()
   
   
